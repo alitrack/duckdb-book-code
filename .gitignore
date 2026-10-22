@@ -1,0 +1,6 @@
+*.csv
+*.jsonl
+*.parquet
+*.duckdb
+*.duckdb.wal
+__pycache__/
